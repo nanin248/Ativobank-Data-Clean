@@ -17,7 +17,7 @@ CATEGORIES: Dict[str, List[str]] = {
     "Internet": [],
     "Taxes": [],
     "Savings": [],
-    "Extras": ["Entertainment", "Gifts", "Electronics", "Home", "Clothes"],
+    "Extras": ["Restaurant", "Entertainment", "Gifts", "Electronics", "Home", "Clothes"],
 }
 
 # One rule per line: Expense Type = keyword1, keyword2, keyword phrase
