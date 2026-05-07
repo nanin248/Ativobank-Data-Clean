@@ -27,21 +27,21 @@ Wages = salary, wage, payroll, vencimento, ordenado
 Gifts = gift, present, oferta
 
 # Food
-Groceries = grocery, groceries, supermarket, continente, pingo doce, lidl, mercadona, auchan, mini preco, minipreco
+Groceries = grocery, groceries, supermarket, continente, pingo doce, lidl, mercadona, auchan, mini preco, minipreco, intermarche
 
 # House
 Rent = rent, renda, landlord
 
 # Vehicle
 Fuel = fuel, gas, gasoline, diesel, petrol, galp, repsol, bp, prio
-Car Insurance = car insurance, auto insurance, seguro auto, seguro carro
+Car Insurance = car insurance, auto insurance, seguro auto, seguro carro, ageas
 
 # Life
 Pet = pet, vet, veterinary, animal
 Vacations = hotel, booking, airbnb, flight, airline, vacation, travel
 Education = school, university, course, udemy, coursera, livro, books
-Sport/Fitness = gym, fitness, sport, sports, ginásio, ginasio
-Health Care = pharmacy, farmacia, farmácia, doctor, hospital, clinic, health
+Sport/Fitness = gym, fitness, sport, sports, ginásio, ginasio, kalorias
+Health Care = pharmacy, farmacia, farmácia, doctor, hospital, clinic, health, hosp, wells, cortes de lisboa
 
 # Other main categories
 Internet = internet, telecom, vodafone, meo, nos
@@ -49,11 +49,12 @@ Taxes = tax, taxes, imposto, finanças, financas
 Savings = savings, saving, poupanca, poupança, investment
 
 # Extras
+Restaurant = Pizza, natas, tomatino, meze
 Entertainment = netflix, spotify, cinema, movie, concert, games
 Gifts = gift, present, oferta
-Electronics = electronics, apple, microsoft, amazon, tech
-Home = ikea, furniture, home, household
-Clothes = clothes, clothing, zara, hm, h&m, primark
+Electronics = electronics, apple, microsoft, amazon, tech, aliexpress, amzn, fnac
+Home = ikea, furniture, home, household, homa
+Clothes = clothes, clothing, zara, hm, h&m, primark, adidas, zippy, lefties, vila do conde, DECATHLON, SPRINGFIELD
 """
 
 
